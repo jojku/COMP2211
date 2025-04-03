@@ -1,0 +1,61 @@
+.root {
+    -fx-background-color: #ffffff;
+}
+
+.choice-box {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #aaaaaa;
+    -fx-pref-height: 15px;
+}
+
+.label {
+    /*-fx-min-width: 50px;*/
+}
+
+.button {
+    -fx-border-color: #aaaaaa;
+    /*-fx-font-size: 15px;*/
+    -fx-background-color: #ffffff;
+    /*-fx-pref-height: 15px;*/
+}
+.button:hover {
+    -fx-border-color: #aaaaaa;
+    -fx-background-color: #eeeeee;
+}
+.button:pressed {
+    -fx-border-color: #aaaaaa;
+    -fx-background-color: #aaaaaa;
+}
+
+.runway {
+    -fx-fill: #C0CCCA;
+}
+
+.clearedNGraded {
+    -fx-fill: #98AFCE;
+}
+
+/*stuff on runway*/
+.runwayOverlay {
+    -fx-fill: "white";
+}
+
+.lawn {
+    -fx-background-color: #ccbe9f;
+}
+
+.sideView {
+    -fx-background-color: #ffffff;
+}
+
+.paramBox {
+    /*-fx-border-color: "black";*/
+    -fx-pref-height: 30;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.listBox {
+    -fx-alignment: center;
+    -fx-padding: 0px 0px 0px 0px;
+}

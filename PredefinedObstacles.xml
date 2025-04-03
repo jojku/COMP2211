@@ -1,0 +1,68 @@
+<obstacles>
+  <obstacle>
+    <ObstacleName>Small cargo vehicle</ObstacleName>
+    <height>2</height>
+    <width>1</width>
+    <length>3</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Cargo vehicle with trailer</ObstacleName>
+    <height>2</height>
+    <width>1</width>
+    <length>10</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Passenger shuttle bus</ObstacleName>
+    <height>3</height>
+    <width>3</width>
+    <length>15</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Cessna 172</ObstacleName>
+    <height>3</height>
+    <width>11</width>
+    <length>9</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Piper PA-28 Cherokee</ObstacleName>
+    <height>3</height>
+    <width>1</width>
+    <length>3</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>SR22-G5</ObstacleName>
+    <height>3</height>
+    <width>12</width>
+    <length>8</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Airbus A318</ObstacleName>
+    <height>12</height>
+    <width>35</width>
+    <length>32</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Airbus A321</ObstacleName>
+    <height>13</height>
+    <width>36</width>
+    <length>45</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Boeing 737</ObstacleName>
+    <height>11</height>
+    <width>28</width>
+    <length>29</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Boeing 777-200</ObstacleName>
+    <height>19</height>
+    <width>61</width>
+    <length>64</length>
+  </obstacle>
+  <obstacle>
+    <ObstacleName>Boeing 777-300ER</ObstacleName>
+    <height>19</height>
+    <width>65</width>
+    <length>74</length>
+  </obstacle>
+</obstacles>

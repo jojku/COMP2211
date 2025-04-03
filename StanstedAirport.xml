@@ -1,0 +1,23 @@
+<Airport>
+	<AirportName>Stansted</AirportName>
+	<MinAscent>50</MinAscent>
+	<runways>
+		<runway>
+			<Designator>L</Designator>
+			<Heading>1</Heading>
+			<StripEnd>60</StripEnd>
+			<RESA>240</RESA>
+			<TORA1>3902</TORA1>
+			<TODA1>3902</TODA1>
+			<ASDA1>3902</ASDA1>
+			<LDA1>3595</LDA1>
+			<ThresholdDisplay1>306</ThresholdDisplay1>
+			<TORA2>3884</TORA2>
+			<TODA2>3962</TODA2>
+			<ASDA2>3884</ASDA2>
+			<LDA2>3884</LDA2>
+			<ThresholdDisplay2>0</ThresholdDisplay2>
+		</runway>
+	</runways>
+	<BlastDistance>300</BlastDistance>
+</Airport>
